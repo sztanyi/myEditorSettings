@@ -1,0 +1,6 @@
+Vim <vscodevim>
+Tabnine <TabNine>
+vscode-icons <VSCode Icons Team>
+Perl <the96>
+Bracket Pair Colorizer 2 <CoenraadS>
+Clock in status bar <Compulim>

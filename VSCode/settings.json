@@ -23,7 +23,7 @@
     "vim.easymotion": true,
     "vim.sneak": true,
     "vim.useSystemClipboard": true,
-    "vim.leader": "",
+    "vim.leader": "<space>",
     "vim.incsearch": true,
     "vim.useCtrlKeys": true,
     "vim.hlsearch": true,
